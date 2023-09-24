@@ -61,7 +61,7 @@
 }
 
 .contact-heading-img-div > * {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
 }
 
@@ -166,6 +166,10 @@
     margin-top: 0px;
   }
 
+  .contact-heading-img-div > * {
+    max-width: 100%;
+    height: auto;
+  }
   .blog-heading-text {
     font-size: 30px;
     margin-top: 0px;

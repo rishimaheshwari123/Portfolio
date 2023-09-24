@@ -19,7 +19,7 @@ function App() {
   }, []);
 
   const [theme, setTheme] = useState(localStorage.getItem("theme") || "dark");
-  const useCursor = settings.useCustomCursor;
+  const useCursor = settings.useCust2omCursor;
 
   return (
     <ThemeProvider theme={themes[theme]}>

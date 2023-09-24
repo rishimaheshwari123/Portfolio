@@ -34,6 +34,7 @@ function Contact(props) {
                 alt=""
               />
             </div>
+
             <div className="contact-heading-text-div">
               <h1
                 className="contact-heading-text"
